@@ -73,3 +73,7 @@ This approach can be extended in numerous ways, such as:
 
 #### **Conclusion**
 This description demonstrates the importance of APIs in accessing real-time data and the power of Python’s data visualization libraries in making sense of complex information. By following these principles, developers can build robust and insightful applications that leverage weather data for diverse use cases.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/cbd3244c-07af-4521-b8e4-d19281a7696b)
